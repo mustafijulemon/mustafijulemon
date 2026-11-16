@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#17122D"/><stop offset="1" stop-color="#42245E"/>
+    </linearGradient>
+    <linearGradient id="a" x1="550" y1="100" x2="803" y2="316" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F0ABFC"/><stop offset="1" stop-color="#818CF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="420" rx="24" fill="url(#bg)"/>
+  <circle cx="766" cy="94" r="136" fill="#C084FC" fill-opacity=".11"/>
+  <rect x="476" y="57" width="361" height="300" rx="18" fill="#0D0B17" stroke="#C4B5FD" stroke-opacity=".42"/>
+  <rect x="476" y="57" width="361" height="33" rx="18" fill="#27203B"/>
+  <path d="M476 74v16h361V74" fill="#27203B"/>
+  <circle cx="496" cy="74" r="4" fill="#FB7185"/><circle cx="511" cy="74" r="4" fill="#FBBF24"/><circle cx="526" cy="74" r="4" fill="#4ADE80"/>
+  <text x="567" y="78" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="9">mustafijul.dev</text>
+  <rect x="495" y="109" width="323" height="228" rx="10" fill="#171327"/>
+  <circle cx="566" cy="179" r="34" fill="#3B2A59"/>
+  <path d="M551 181c0-15 7-25 16-25s16 10 16 25v8h-32v-8Z" fill="#C4B5FD"/>
+  <path d="M544 217c5-18 17-26 23-26s18 8 23 26" stroke="#A78BFA" stroke-width="9" stroke-linecap="round"/>
+  <rect x="610" y="150" width="156" height="12" rx="6" fill="#F5F3FF"/>
+  <rect x="610" y="174" width="126" height="7" rx="3.5" fill="#8B7EA8"/>
+  <rect x="610" y="190" width="144" height="7" rx="3.5" fill="#625574"/>
+  <rect x="610" y="217" width="76" height="23" rx="11.5" fill="url(#a)"/>
+  <text x="628" y="232" fill="#1E1730" font-family="Arial,sans-serif" font-size="9" font-weight="700">EXPLORE</text>
+  <rect x="516" y="270" width="85" height="48" rx="8" fill="#26203B"/>
+  <rect x="612" y="270" width="85" height="48" rx="8" fill="#26203B"/>
+  <rect x="708" y="270" width="85" height="48" rx="8" fill="#26203B"/>
+  <path d="M543 300l10-12 9 8 13-16" stroke="#C4B5FD" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M638 300h33m-16-16v32" stroke="#F0ABFC" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="750" cy="294" r="12" stroke="#818CF8" stroke-width="4"/>
+  <text x="68" y="136" fill="#E9D5FF" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">PERSONAL · PORTFOLIO</text>
+  <text x="64" y="199" fill="#FAF5FF" font-family="Arial,sans-serif" font-size="49" font-weight="700">My Portfolio</text>
+  <text x="68" y="239" fill="#DDD6E8" font-family="Arial,sans-serif" font-size="19">A home for my work, skills &amp; journey.</text>
+  <rect x="68" y="275" width="137" height="30" rx="15" fill="#A855F7" fill-opacity=".25"/>
+  <text x="91" y="295" fill="#F3E8FF" font-family="Arial,sans-serif" font-size="13" font-weight="700">HTML · CSS · JS</text>
+</svg>

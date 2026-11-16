@@ -46,94 +46,72 @@ My development journey focuses on creating meaningful applications that combine 
 
 ---
 
-## 💼 Software Development Portfolio
+## 🚀 Featured Projects
 
-I have worked on multiple Software Development Projects (SDP), focusing on different problem domains and practical software solutions.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/ACADEMIC_PROJECTS-4-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ONGOING_PROJECTS-2-FF9F43?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PERSONAL_PROJECTS-1-16A085?style=for-the-badge"/>
-
-</div>
-
-### 🎓 Academic Software Development Projects
+A selection of academic and personal projects, presented with original visual previews.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>01. Smart Management</h3>
+<a href="https://github.com/mustafijulemon/BUBT-CLUBHUB-SDP2">
+<img src="./assets/projects/clubhub.svg" width="100%" alt="ClubHub club management dashboard preview"/>
+</a>
 
-<img src="https://img.shields.io/badge/SDP--01-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Software_Project-Completed_Stage-16A085?style=flat-square"/>
+### 🏛️ ClubHub
 
-A software development project focused on Smart Management and practical application development.
+A club management app for organizing clubs, members, and event requests.
+
+`React` `Python Flask` `SQLite`
+
+<a href="https://github.com/mustafijulemon/BUBT-CLUBHUB-SDP2">↗ View source</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>02. ClubHub</h3>
+<a href="https://github.com/mustafijulemon/Medlinker">
+<img src="./assets/projects/medlinker.svg" width="100%" alt="Medlinker healthcare application preview"/>
+</a>
 
-<img src="https://img.shields.io/badge/SDP--02-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Project_Work-Completed_Stage-16A085?style=flat-square"/>
+### 🩺 Medlinker
 
-A club management platform designed to organize club activities, memberships, and administrative operations.
+A healthcare-focused application project.
 
-**Tech Stack:**
-`React` `Vite` `Python Flask` `SQLite`
+`Vue.js 3` `Vue Router` `Vite`
 
-<a href="https://github.com/mustafijulemon/BUBT-CLUBHUB-SDP2">↗ View Repository</a>
+<a href="https://github.com/mustafijulemon/Medlinker">↗ View source</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<h3>03. Healthcare360</h3>
+<a href="https://github.com/mustafijulemon/My_portfolio-main">
+<img src="./assets/projects/portfolio.svg" width="100%" alt="Personal developer portfolio preview"/>
+</a>
 
-<img src="https://img.shields.io/badge/SDP--03-2563EB?style=flat-square"/>
+### 💼 Personal Portfolio
 
-A healthcare-focused software development project aimed at addressing practical healthcare-related needs.
+A personal website showcasing my projects, skills, and developer journey.
 
-</td>
-<td width="50%" valign="top">
+`HTML` `CSS` `JavaScript`
 
-<h3>04. Smart Transit</h3>
-
-<img src="https://img.shields.io/badge/SDP--04-2563EB?style=flat-square"/>
-
-A smart transportation-focused project exploring software-based solutions for urban mobility and transit-related challenges.
-
-<a href="https://github.com/mustafijulemon/Urban-Transport">↗ View Repository</a>
-
-</td>
-</tr>
-</table>
-
-### 🚀 Ongoing Real-World Projects
-
-My current development focus is on creating solutions that can make everyday human life easier.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>✨ EasyLife</h3>
-
-<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-orange?style=for-the-badge"/>
-
-A real-world software project focused on making everyday life easier through practical and accessible digital solutions.
+<a href="https://github.com/mustafijulemon/My_portfolio-main">↗ View source</a>
 
 </td>
 <td width="50%" valign="top">
 
-<h3>⚡ High Priority</h3>
+<a href="https://github.com/mustafijulemon/Club-Management-System-In-C">
+<img src="./assets/projects/club-system.svg" width="100%" alt="C++ club management program preview"/>
+</a>
 
-<img src="https://img.shields.io/badge/STATUS-IN_PROGRESS-orange?style=for-the-badge"/>
+### 👥 Club Management System
 
-An ongoing real-world project focused on addressing practical needs through technology-driven solutions.
+A command-line club management project built as a programming exercise.
+
+`C++` `Object-Oriented Programming`
+
+<a href="https://github.com/mustafijulemon/Club-Management-System-In-C">↗ View source</a>
 
 </td>
 </tr>
@@ -234,33 +212,35 @@ An academic research project exploring explainable machine learning techniques f
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
+### 🎓 Academic
 
-<img src="https://img.shields.io/badge/National-Debate%20Champion-gold?style=for-the-badge&logo=champion&logoColor=white"/>
-<img src="https://img.shields.io/badge/Best-Speaker-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Team-Leader-16A085?style=for-the-badge"/>
+- **B.Sc. in Computer Science & Engineering, BUBT** — CGPA 3.93.
+- Earned **4.00 SGPA** in multiple semesters.
+- **HSC (Science)** — GPA 5.00.
+- Research: Explainable Machine Learning for Heart Disease Prediction and Risk Assessment.
 
-</div>
+### 💻 Competitive Programming
 
-### 🎤 Debate & National Recognition
+- **5th Place** — BUBT Preliminary Programming Contest 2025, Senior Division.
+- **11th Place** — ICPC Asia Dhaka Regional Preliminary Contest, BUBT team.
+- **19th Place** — BUBT Onsite Contest 2024.
+- Competed in ICPC and BUET programming contests.
 
-- 🏆 **National Debate Champion** — Represented BUBT in Debate for Democracy.
-- 🥇 **Best Speaker** — Recognized as Best Speaker in the competition.
-- 👨‍✈️ **Team Leader** — Led the university debate team.
-- 📰 **National Media Recognition** — Achievement covered by 109 newspapers.
+### 🎙️ Debate & National Television
 
-### 👑 Leadership & Organizational Experience
+- **National Champion** — Debate for Democracy on ATN Bangla.
+- **15+ appearances** in televised debate programs.
+- **National TV Debate Champion Team (2022)**.
+- **Runner-up** — ATN National TV Debate (2023).
+- Finalist in multiple nationally televised debate competitions.
+
+### 👑 Leadership & Organizing
 
 - **President, Debating Club of BUBT** — 2nd Executive Committee (2026–27).
-- **Convenor** — 1st National Debate Competition 2026, featuring 32 universities.
-- **Tournament Director** — 5th Inter Department Debate Competition 2026.
-- Contributed to the club's recognition with the **VC Award for Best Performance in Club Activities (2025–26)**.
+- Convenor of the 1st National Debate Competition 2026, featuring 32 universities.
+- Tournament Director, 5th Inter Department Debate Competition 2026.
+- ICPC contest organizing volunteer (2025).
 
-### 🎓 Academic Excellence
-
-- CGPA: 3.93
-- Achieved 4.00 SGPA in multiple semesters.
-- Academic Research: Explainable Machine Learning for Heart Disease Prediction.
 
 ---
 

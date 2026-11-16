@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10172A"/><stop offset="1" stop-color="#283B68"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="530" y1="100" x2="780" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A78BFA"/><stop offset="1" stop-color="#38BDF8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="420" rx="24" fill="url(#bg)"/>
+  <circle cx="764" cy="92" r="128" fill="#7C3AED" fill-opacity=".12"/>
+  <rect x="474" y="58" width="360" height="302" rx="19" fill="#0B1020" stroke="#64748B" stroke-opacity=".55"/>
+  <rect x="491" y="77" width="326" height="29" rx="8" fill="#18243D"/>
+  <circle cx="508" cy="91" r="4" fill="#FB7185"/><circle cx="522" cy="91" r="4" fill="#FBBF24"/><circle cx="536" cy="91" r="4" fill="#34D399"/>
+  <rect x="491" y="119" width="75" height="224" rx="10" fill="#141E34"/>
+  <rect x="506" y="139" width="43" height="8" rx="4" fill="#A78BFA"/>
+  <rect x="506" y="160" width="35" height="5" rx="2.5" fill="#64748B"/>
+  <rect x="506" y="176" width="40" height="5" rx="2.5" fill="#64748B"/>
+  <rect x="506" y="192" width="31" height="5" rx="2.5" fill="#64748B"/>
+  <rect x="581" y="123" width="219" height="48" rx="10" fill="#192741"/>
+  <text x="597" y="143" fill="#94A3B8" font-family="Arial,sans-serif" font-size="10">ACTIVE CLUBS</text>
+  <text x="597" y="162" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="19" font-weight="700">04</text>
+  <rect x="581" y="183" width="102" height="78" rx="10" fill="#192741"/>
+  <rect x="694" y="183" width="106" height="78" rx="10" fill="#192741"/>
+  <text x="594" y="202" fill="#94A3B8" font-family="Arial,sans-serif" font-size="9">MEMBERS</text>
+  <text x="594" y="232" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="26" font-weight="700">128</text>
+  <text x="707" y="202" fill="#94A3B8" font-family="Arial,sans-serif" font-size="9">EVENTS</text>
+  <text x="707" y="232" fill="#67E8F9" font-family="Arial,sans-serif" font-size="26" font-weight="700">06</text>
+  <rect x="581" y="274" width="219" height="55" rx="10" fill="#192741"/>
+  <path d="M597 313l35-17 31 8 33-20 27 9 44-17 17 6" stroke="url(#accent)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="68" y="136" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">BUBT · STUDENT LIFE</text>
+  <text x="64" y="199" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="53" font-weight="700">ClubHub</text>
+  <text x="68" y="239" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="19">Clubs, members &amp; events — organized.</text>
+  <rect x="68" y="275" width="112" height="30" rx="15" fill="#7C3AED" fill-opacity=".23"/>
+  <text x="86" y="295" fill="#DDD6FE" font-family="Arial,sans-serif" font-size="13" font-weight="700">REACT + PYTHON</text>
+</svg>

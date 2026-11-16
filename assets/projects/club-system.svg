@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#14291F"/><stop offset="1" stop-color="#20573D"/>
+    </linearGradient>
+    <linearGradient id="a" x1="535" y1="112" x2="804" y2="326" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#86EFAC"/><stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="420" rx="24" fill="url(#bg)"/>
+  <circle cx="770" cy="92" r="136" fill="#4ADE80" fill-opacity=".1"/>
+  <rect x="492" y="58" width="332" height="300" rx="17" fill="#091710" stroke="#86EFAC" stroke-opacity=".44"/>
+  <rect x="492" y="58" width="332" height="34" rx="17" fill="#15271D"/>
+  <path d="M492 76v16h332V76" fill="#15271D"/>
+  <circle cx="511" cy="75" r="4" fill="#FB7185"/><circle cx="526" cy="75" r="4" fill="#FBBF24"/><circle cx="541" cy="75" r="4" fill="#4ADE80"/>
+  <text x="578" y="79" fill="#86EFAC" font-family="monospace" font-size="10">club_manager.cpp</text>
+  <rect x="510" y="110" width="296" height="230" rx="10" fill="#0C1C12"/>
+  <text x="529" y="140" fill="#647E6B" font-family="monospace" font-size="13">01</text>
+  <text x="558" y="140" fill="#86EFAC" font-family="monospace" font-size="13">#include &lt;iostream&gt;</text>
+  <text x="529" y="168" fill="#647E6B" font-family="monospace" font-size="13">02</text>
+  <text x="558" y="168" fill="#A7F3D0" font-family="monospace" font-size="13">struct Member {</text>
+  <text x="529" y="196" fill="#647E6B" font-family="monospace" font-size="13">03</text>
+  <text x="580" y="196" fill="#CBD5E1" font-family="monospace" font-size="13">string name;</text>
+  <text x="529" y="224" fill="#647E6B" font-family="monospace" font-size="13">04</text>
+  <text x="580" y="224" fill="#CBD5E1" font-family="monospace" font-size="13">int memberId;</text>
+  <text x="529" y="252" fill="#647E6B" font-family="monospace" font-size="13">05</text>
+  <text x="558" y="252" fill="#A7F3D0" font-family="monospace" font-size="13">};</text>
+  <rect x="558" y="274" width="207" height="38" rx="8" fill="#163A27"/>
+  <text x="574" y="298" fill="#86EFAC" font-family="monospace" font-size="13">&gt; members loaded: 24</text>
+  <text x="68" y="136" fill="#BBF7D0" font-family="Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">C++ · MANAGEMENT</text>
+  <text x="64" y="199" fill="#F0FDF4" font-family="Arial,sans-serif" font-size="49" font-weight="700">Club System</text>
+  <text x="68" y="239" fill="#D1E7D7" font-family="Arial,sans-serif" font-size="19">A practical club management program.</text>
+  <rect x="68" y="275" width="117" height="30" rx="15" fill="#22C55E" fill-opacity=".22"/>
+  <text x="93" y="295" fill="#DCFCE7" font-family="Arial,sans-serif" font-size="13" font-weight="700">C++ · OOP</text>
+</svg>
