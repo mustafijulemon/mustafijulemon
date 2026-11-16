@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,45:102A56,100:087BDB&height=230&section=header&text=Mustafijul%20Islam%20Emon&fontSize=43&fontColor=FFFFFF&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20SOFTWARE%20ENGINEERING&descSize=16&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="./assets/profile-banner.svg" alt="Mustafijul Islam Emon — Full-Stack Developer and CSE Student"/>
 
 <a href="https://www.facebook.com/mustafijul.islam.emon/">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
