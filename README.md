@@ -1,37 +1,178 @@
-<h1 align="center">Hi 👋, I'm M.N. Mustafijul Islam Emon</h1>
-<h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafijulemon&label=Profile%20views&color=0e75b6&style=flat" alt="mustafijulemon" /> </p>
+<!--
+  GitHub Profile README
+  Username: mustafijulemon
+  Theme: Dark Navy Blue + Electric Blue
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafijulemon" alt="mustafijulemon" /></a> </p>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- Replace with your uploaded banner image -->
+<img src="./assets/github-banner.png" width="100%" alt="Mustafijul Islam Emon - Full Stack Developer"/>
 
-- 🔭 I’m currently working on **Health-Care360**
+# Hi, I'm Mustafijul Islam Emon 👋
 
-- 🌱 I’m currently learning **React & Django**
+### Full-Stack Developer | CSE Student | Programmer
 
-- 👯 I’m looking to collaborate on [Suggestme](https://github.com/miel2793/Suggestion-Sharing-Platform)
+Building meaningful digital solutions through
+software engineering, programming, and data science.
 
-- 🤝 I’m looking for help My **BUBT_Club_Hub**
-
-- 👨‍💻 All of my projects are available at [https://mustafijulemon.github.io/My_portfolio/](https://mustafijulemon.github.io/My_portfolio-main/)
-
-- 💬 Ask me about **C, C++, Java , Python**
-
-- 📫 How to reach me **mustafijulemon55284@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mustafijul-islam-emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafijul-islam-emon" height="30" width="40" /></a>
-<a href="https://fb.com/mustafijul.islam.emon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mustafijul.islam.emon" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/mustafijulemon">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=mustafijulemon&style=for-the-badge&color=2563EB" alt="Profile Views"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafijulemon&show_icons=true&locale=en&layout=compact" alt="mustafijulemon" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafijulemon&show_icons=true&locale=en" alt="mustafijulemon" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafijulemon&" alt="mustafijulemon" /></p>
+## 👨‍💻 About Me
+
+I'm a Computer Science and Engineering student passionate about building software, solving problems, and exploring emerging technologies.
+
+- 🎓 Studying Computer Science & Engineering at BUBT.
+- 💻 Interested in Full-Stack Web Development.
+- 🚀 Exploring modern software architecture and scalable applications.
+- 🧠 Interested in Artificial Intelligence, Machine Learning, and Data Science.
+- 📊 Working with Explainable AI and Machine Learning research.
+- 🌱 Continuously learning and improving my technical skills.
+- 🎯 Aspiring Software Engineer.
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
+
+### Backend Development & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+</p>
+
+### Mobile Development & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,figma" />
+</p>
+
+### AI & Data Science
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+Machine Learning | Scikit-learn | Random Forest | SHAP | LIME
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mustafijulemon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafijulemon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=mustafijulemon&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Medlinker
+**Health Management Application**
+
+A healthcare-focused mobile application designed to provide a digital platform for health-related services.
+
+**Technologies:** Flutter, Dart, Firebase
+
+[View Repository](https://github.com/mustafijulemon/Medlinker)
+
+---
+
+### ❤️ Explainable ML for Heart Disease Prediction
+
+**Machine Learning & Explainable AI Research**
+
+An Explainable Machine Learning Framework for Early Heart Disease Prediction and Risk Assessment.
+
+- Random Forest-based prediction.
+- SHAP for global model interpretation.
+- LIME for local explainability.
+- Risk assessment using machine learning.
+
+**Technologies:** Python, Scikit-learn, Random Forest, SHAP, LIME
+
+[Add Project Repository Link](YOUR_HEART_DISEASE_REPO_URL)
+
+---
+
+## 🏆 Achievements & Activities
+
+- 💻 Competitive Programming and Problem Solving.
+- 📚 Academic projects and Machine Learning research.
+- 🎤 Leadership and organizational experience in university activities.
+- 🏅 Active involvement in technology and learning communities.
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafijulemon&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/mustafijulemon">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="YOUR_PORTFOLIO_URL">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### "Build. Learn. Improve. Repeat."
+
+Thanks for visiting my profile!
+
+</div>
+
