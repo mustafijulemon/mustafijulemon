@@ -1,35 +1,26 @@
 
-<!--
-  GitHub Profile README
-  Username: mustafijulemon
-  Theme: Dark Navy Blue + Electric Blue
--->
+<!-- Profile README: mustafijulemon -->
 
 <div align="center">
 
-<!-- Replace with your uploaded banner image -->
-<img src="./assets/github-banner.png" width="100%" alt="Mustafijul Islam Emon - Full Stack Developer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B73,100:2563EB&height=220&section=header&text=Mustafijul%20Islam%20Emon&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=19&animation=fadeIn"/>
 
-# Hi, I'm Mustafijul Islam Emon 👋
+<a href="https://www.facebook.com/mustafijul.islam.emon/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mustafijul-islam-emon/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://mustafijulemon.github.io/My_portfolio-main/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/mustafijulemon">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### Full-Stack Developer | CSE Student | Programmer
+<br/>
 
-Building meaningful digital solutions through
-software engineering, programming, and data science.
-
-<p>
-  <a href="https://github.com/mustafijulemon">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=mustafijulemon&style=for-the-badge&color=2563EB" alt="Profile Views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;CSE+Student+%7C+Programmer;Data+Science+Enthusiast;Build.+Learn.+Improve.+Repeat." />
 
 </div>
 
@@ -37,51 +28,48 @@ software engineering, programming, and data science.
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student passionate about building software, solving problems, and exploring emerging technologies.
+Hello! I'm **Mustafijul Islam Emon**, a Computer Science and Engineering student at Bangladesh University of Business and Technology (BUBT).
 
-- 🎓 Studying Computer Science & Engineering at BUBT.
-- 💻 Interested in Full-Stack Web Development.
-- 🚀 Exploring modern software architecture and scalable applications.
-- 🧠 Interested in Artificial Intelligence, Machine Learning, and Data Science.
-- 📊 Working with Explainable AI and Machine Learning research.
-- 🌱 Continuously learning and improving my technical skills.
-- 🎯 Aspiring Software Engineer.
+I'm passionate about software development, problem-solving, and exploring emerging technologies.
+
+- 🎓 Computer Science & Engineering Student
+- 💻 Focused on Full-Stack Web Development
+- 🚀 Interested in Software Engineering
+- 🧠 Exploring Machine Learning and Artificial Intelligence
+- 📊 Interested in Data Science and Explainable AI
+- 🌱 Always learning and improving my skills
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js"/>
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind"/>
 </p>
 
-### Backend Development & Database
+### Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase"/>
 </p>
 
 ### Mobile Development & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,figma"/>
 </p>
 
-### AI & Data Science
+### AI & Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-Machine Learning | Scikit-learn | Random Forest | SHAP | LIME
+Python | Scikit-learn | Random Forest | SHAP | LIME
 
 ---
 
@@ -89,13 +77,13 @@ Machine Learning | Scikit-learn | Random Forest | SHAP | LIME
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mustafijulemon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mustafijulemon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafijulemon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafijulemon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF"/>
 
 <br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=mustafijulemon&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+<img width="75%" src="https://streak-stats.demolab.com?user=mustafijulemon&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF"/>
 
 </div>
 
@@ -104,39 +92,40 @@ Machine Learning | Scikit-learn | Random Forest | SHAP | LIME
 ## 🚀 Featured Projects
 
 ### 🏥 Medlinker
-**Health Management Application**
 
-A healthcare-focused mobile application designed to provide a digital platform for health-related services.
+A healthcare-focused mobile application designed to provide digital health-related services.
 
-**Technologies:** Flutter, Dart, Firebase
+**Tech Stack:** Flutter | Dart | Firebase
 
-[View Repository](https://github.com/mustafijulemon/Medlinker)
+[View Project](https://github.com/mustafijulemon/Medlinker)
 
----
-
-### ❤️ Explainable ML for Heart Disease Prediction
-
-**Machine Learning & Explainable AI Research**
+### ❤️ Explainable ML Framework for Heart Disease Prediction
 
 An Explainable Machine Learning Framework for Early Heart Disease Prediction and Risk Assessment.
 
-- Random Forest-based prediction.
-- SHAP for global model interpretation.
-- LIME for local explainability.
-- Risk assessment using machine learning.
+- Random Forest-based prediction
+- SHAP for global model interpretation
+- LIME for local model explainability
+- Machine Learning-based risk assessment
 
-**Technologies:** Python, Scikit-learn, Random Forest, SHAP, LIME
+**Tech Stack:** Python | Scikit-learn | SHAP | LIME
 
-[Add Project Repository Link](YOUR_HEART_DISEASE_REPO_URL)
+### 🌐 My Portfolio
+
+My personal portfolio website showcasing my background, technical interests, and projects.
+
+**Tech Stack:** Web Development
+
+[Visit Portfolio](https://mustafijulemon.github.io/My_portfolio-main/)
 
 ---
 
 ## 🏆 Achievements & Activities
 
-- 💻 Competitive Programming and Problem Solving.
-- 📚 Academic projects and Machine Learning research.
-- 🎤 Leadership and organizational experience in university activities.
-- 🏅 Active involvement in technology and learning communities.
+- Competitive Programming and Problem Solving
+- Academic Machine Learning Research
+- University Leadership and Organizational Activities
+- Technology and Software Development Projects
 
 ---
 
@@ -144,7 +133,7 @@ An Explainable Machine Learning Framework for Early Heart Disease Prediction and
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafijulemon&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mustafijulemon&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
@@ -154,25 +143,28 @@ An Explainable Machine Learning Framework for Early Heart Disease Prediction and
 
 <div align="center">
 
+<a href="https://www.facebook.com/mustafijul.islam.emon/">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mustafijul-islam-emon/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://mustafijulemon.github.io/My_portfolio-main/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome"/>
+</a>
+
 <a href="https://github.com/mustafijulemon">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+### 💙 Build. Learn. Improve. Repeat.
+
+*Thanks for visiting my GitHub profile!*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0D1117&height=100&section=footer"/>
 
 </div>
-
-<div align="center">
-
-### "Build. Learn. Improve. Repeat."
-
-Thanks for visiting my profile!
-
-</div>
-
