@@ -232,13 +232,44 @@ An academic research project exploring explainable machine learning techniques f
 
 ---
 
-## 🏆 Achievements & Activities
+## 🏆 Achievements & Recognition
 
-- Competitive Programming and Problem Solving
-- Collaborative Software Development Projects
-- Academic Machine Learning Research
-- University Leadership and Organizational Activities
-- Debate, Communication and Team Leadership
+<div align="center">
+
+<img src="https://img.shields.io/badge/National-Debate%20Champion-gold?style=for-the-badge&logo=champion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Best-Speaker-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Team-Leader-16A085?style=for-the-badge"/>
+
+</div>
+
+### 🎤 Debate & National Recognition
+
+- 🏆 **National Debate Champion** — Represented BUBT in Debate for Democracy.
+- 🥇 **Best Speaker** — Recognized as Best Speaker in the competition.
+- 👨‍✈️ **Team Leader** — Led the university debate team.
+- 📰 **National Media Recognition** — Achievement covered by 109 newspapers.
+
+### 👑 Leadership & Organizational Experience
+
+- **President, Debating Club of BUBT** — 2nd Executive Committee (2026–27).
+- **Convenor** — 1st National Debate Competition 2026, featuring 32 universities.
+- **Tournament Director** — 5th Inter Department Debate Competition 2026.
+- Contributed to the club's recognition with the **VC Award for Best Performance in Club Activities (2025–26)**.
+
+### 🎓 Academic Excellence
+
+- CGPA: 3.93
+- Achieved 4.00 SGPA in multiple semesters.
+- Academic Research: Explainable Machine Learning for Heart Disease Prediction.
+
+---
+
+## 💡 Beyond Coding
+
+I believe software engineering is not only about writing code.
+Leadership, critical thinking, communication, teamwork, and problem-solving are equally important.
+
+My experience in competitive debating and organizing national-level events has helped me develop these skills alongside my technical journey.
 
 ---
 
