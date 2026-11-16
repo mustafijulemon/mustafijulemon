@@ -119,19 +119,7 @@ A command-line club management project built as a programming exercise.
 
 ---
 
-## 🏥 Personal & Research Projects
-
-### Medlinker
-
-A healthcare-oriented application project.
-
-**Technologies identified in the repository:**
-
-`Vue.js 3` `Vue Router` `Vite`
-
-<a href="https://github.com/mustafijulemon/Medlinker">
-<img src="https://img.shields.io/badge/Explore_Project-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+## 🧪 Research & Innovation
 
 ### ❤️ Explainable ML Framework for Early Heart Disease Prediction and Risk Assessment
 
